@@ -1,8 +1,8 @@
 # Limbo Migrations API
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/limbo-works/Limbo.Umbraco.Migrations.RedirectsApi/blob/v8/main/LICENSE.md)
-[![NuGet](https://img.shields.io/nuget/vpre/Limbo.Umbraco.MigrationsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.RedirectsApi)
-[![NuGet](https://img.shields.io/nuget/dt/Limbo.Umbraco.MigrationsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.RedirectsApi)
+[![NuGet](https://img.shields.io/nuget/vpre/Limbo.Umbraco.Migrations.RedirectsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.RedirectsApi)
+[![NuGet](https://img.shields.io/nuget/dt/Limbo.Umbraco.Migrations.RedirectsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.RedirectsApi)
 [![Limbo.Umbraco.MigrationsApi.Redirects at packages.limbo.works](https://img.shields.io/badge/limbo-packages-blue)](https://packages.limbo.works/limbo.umbraco.migrations.redirectsapi/)
 
 Adds an API to Umbraco 8 for exporting redirects.
